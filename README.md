@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kapil</h1><h3 align="center">A passionate Frontend Developer, Open-source enthusiast 👀</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 # 💫 About Me:
 🔭 I’m currently working on GSSoC<br>👯 I’m looking to collaborate on Full Stack Web Development related<br>🌱 I’m currently learning **full stack Web Development** and **Blockchain Development**.<br>💬 Ask me about **Web, Data structure, Algorithms**.<br>⚡ Fun fact  **Java & Javascript are not the same** 😂<br>📫 You can reach me at **kapileswarmoharana32161@gmail.com**.
 
