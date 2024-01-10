@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on SWOC<br>👯 I’m looking to collaborate on Full Stack Web Development related<br>🌱 I’m currently learning **full stack Web Development** and **Blockchain Development**.<br>💬 Ask me about **Web, Data structure, Algorithms**.<br>⚡ Fun fact  **Java & Javascript are not the same** 😂<br>📫 You can reach me at **kapileswarmoharana32161@gmail.com**.
+🔭 I’m currently working on SWOC 2023<br>👯 I’m looking to collaborate on Full Stack Web Development related<br>🌱 I’m currently learning **full stack Web Development** and **Blockchain Development**.<br>💬 Ask me about **Web, Data structure, Algorithms**.<br>⚡ Fun fact  **Java & Javascript are not the same** 😂<br>📫 You can reach me at **kapileswarmoharana32161@gmail.com**.
 
 
 ## 🌐 Socials:
